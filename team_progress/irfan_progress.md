@@ -1,4 +1,4 @@
-Week - 
+Week - 1
 Performed data cleaning on the (  Products ) dataset from the Brazilian E-Commerce (Olist) dataset.
 
 Steps completed:
